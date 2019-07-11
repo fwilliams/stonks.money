@@ -19,15 +19,15 @@ html, body {margin: 0; height: 100%; overflow: hidden}
   background: url("assets/img/stonks.jpg") repeat;
   height: 11880px;
   width: 8920px;
-  animation: slide 40s linear infinite;
+  animation: slide 7s linear infinite;
 }
 
 @keyframes slide{
   0%{
-    transform: translate3d(-4460px, 0, 0);
+    transform: translate3d(-792px, -446px, 0);
   }
   100%{
-    transform: translate3d(0px, -2376px, 0);
+    transform: translate3d(0px, -892px, 0);
   }
 }
 </style>
