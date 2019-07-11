@@ -1,6 +1,6 @@
 title: stonks
 logo: /assets/img/stonks.jpg
-description: Stonks
+description: stonks
 show_downloads: false
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
