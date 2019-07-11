@@ -1,1 +1,1 @@
-![stonks](https://github.com/fwilliams/stonks.money/blob/master/stonks.jpg "Stonks")
+![stonks](https://raw.githubusercontent.com/fwilliams/stonks.money/master/stonks.jpg "Stonks")
