@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Welcome to [stonks.money](https://stonks.money)
 This website is owned and operated by [Francis Williams](https://fwilliams.info)
 ## Important Features
